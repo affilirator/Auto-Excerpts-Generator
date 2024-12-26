@@ -3,7 +3,8 @@
  * Plugin Name: Auto Excerpts Generator
  * Description: Automatically adds excerpts to posts and pages without excerpts using OpenAI API.
  * Version: 1.20
- * Author: Your Name
+ * Author: Patrick Mahinge
+ * Author URI: https://mahinge.com/portfolio/
  */
 
 if (!defined('ABSPATH')) {
