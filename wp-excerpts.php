@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Auto-WP-Excerpt Generator
+ * Plugin Name: Auto Excerpts Generator
  * Description: Automatically adds excerpts to posts and pages without excerpts using OpenAI API.
  * Version: 1.20
  * Author: Your Name
