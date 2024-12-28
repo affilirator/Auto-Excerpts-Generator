@@ -106,7 +106,7 @@ function aeg_generate_excerpt($post_id) {
         'body' => json_encode([
             'model' => 'gpt-3.5-turbo',
             'messages' => [
-                ['role' => 'user', 'content' => "Generate a short summary of no more than 150 characters for this content: $post_content"]
+                ['role' => 'user', 'content' => "Using an empathetic tone,generate a short summary of no more than 3 sentences for this content: $post_content"]
             ],
             'max_tokens' => 50,
         ]),
